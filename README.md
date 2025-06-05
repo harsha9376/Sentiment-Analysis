@@ -27,3 +27,5 @@ The dataset (`sentimentdataset.csv`) contains two columns:
 
 Before training, the sentiment labels are stripped of leading/trailing whitespace to ensure label consistency.
 
+## Deployment 
+**Streamlit Link:** https://sentiment-analysis-dxzb8fuzm3tk4t2xx369q5.streamlit.app/
